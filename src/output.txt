@@ -1,0 +1,3 @@
+Original: Alice was beginning to get tired
+Encoded IDs: [31, 191, 78, 95, 110, 130, 111, 180, 96, 169, 178, 152, 84]
+Decoded: Alicewasbeginningtogettired
