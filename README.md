@@ -26,7 +26,7 @@ bpe_tokenizer/
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-github-repo-link>
+    git clone https://github.com/kanakagrawal23/bpe_tokenizer.git
     cd bpe_tokenizer
     ```
 
